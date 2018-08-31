@@ -1,0 +1,1 @@
+This is a collection of simply scripting problems from LeetCode for practice, written in Python
